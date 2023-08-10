@@ -160,8 +160,6 @@
 	  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
 	}
 	
-	
-	
 	.showcase-form {
 	  margin: auto;
 	}
@@ -179,7 +177,6 @@
 	  text-align: center;
 	}
 	
-	
 	.title {
 	  color: black;
 	  font-size: 20px;
@@ -195,7 +192,6 @@
 	  padding: 10px;
 	  margin: 0, 20px;
 	  text-align: justify;
-	
 	}
 	
 	.flex {
@@ -206,8 +202,7 @@
    .title {
     text-align:center;
   }
-  
-	.stats {
+  	.stats {
 	  padding: 45px 50px;
 	  text-align: center;
 	}
@@ -262,9 +257,7 @@
 	    width:90px;
 	}
 
-
-	
-	/* Tablets and Under */
+/* Tablets and Under */
 	@media(max-width: 768px) {
 	  .grid,
 	  .grid-3 {
@@ -306,8 +299,6 @@
 	    height: auto;
 	    text-align: center;
 	  }
-	
-	
 	}
 	
 	/* Mobile devices */
